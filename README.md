@@ -36,7 +36,7 @@ This project is a tool for downloading Zoom meeting videos, extracting audio fro
 To download a Zoom video, extract its audio, and transcribe it, run the following command:
 
 ```bash
-python main.py --zoom_url <ZOOM_VIDEO_URL>
+python main.py -url <ZOOM_VIDEO_URL>
 ```
 
 Replace `<ZOOM_VIDEO_URL>` with the URL of the Zoom meeting you want to download.
